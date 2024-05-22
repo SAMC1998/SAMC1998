@@ -51,9 +51,9 @@
 
 
 ## 📊 My Github Stats
-<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saqlain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SAMC1998&theme=black-ice&hide_border=false&stroke=FFFFFF&background=0D1117"/></p><p align="center">
-<img alt="Saqlain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SAMC1998&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117" /> </p>
-<p align="center"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMC1998&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117" />
+![SAMC1998's Stats](https://github-readme-stats.vercel.app/api?username=SAMC1998&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![SAMC1998's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAMC1998&theme=vue-dark&hide_border=true)
+![SAMC1998's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMC1998&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 
